@@ -51,8 +51,4 @@
 
 ---
 
-### 📈 **GitHub Stats**
-![Konrad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=konrad-paszek&show_icons=true&theme=default)
-
-
 **Thank you for visiting my profile!** 😊  
