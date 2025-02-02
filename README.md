@@ -29,12 +29,19 @@
 
 ### 🛠 **Technical Skills**
 | Skill          | Tools & Frameworks                 |
-|----------------|-----------------------------------|
-| **Languages**  | Python, C#, SQL                   |
-| **Frameworks** | Django, Robot Framework, Pytest   |
-| **Databases**  | PostgreSQL                        |
-| **Tools**      | GitLab, Gerrit, Jira, Postman     |
-| **API**        | REST API                          |
+|----------------|------------------------------------|
+| **Languages**  | Python, C#, SQL                    |
+| **Frameworks** | Django, Requests, Pytest           |
+| **Databases**  | PostgreSQL                         |
+| **Tools**      | GitLab, Gerrit, Jira, Postman      |
+| **API**        | REST API                           |
+
+---
+
+### 📁 **Projects**
+- **Reddit Clone**  
+  A Reddit clone built using **Django**, **Django REST Framework (DRF)**, and tested with **Pytest**.  
+  [View on GitHub](https://github.com/pymasterspl/reddit)
 
 ---
 
@@ -45,10 +52,10 @@
 ---
 
 ### 🔗 **Connect with Me**
-- 📧 **E-mail**: [konradpaszek.dev@gmail.com](mailto:konradpaszek.dev@gmail.com)  
+- 📧 **Email**: [konradpaszek.dev@gmail.com](mailto:konradpaszek.dev@gmail.com)  
 - 💼 **LinkedIn**: [linkedin.com/in/konrad-paszek](https://www.linkedin.com/in/konrad-paszek/)  
 - 📍 **Location**: Wrocław, Poland  
 
 ---
 
-**Thank you for visiting my profile!** 😊  
+**Thank you for visiting my profile!** 😊
